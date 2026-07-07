@@ -409,6 +409,10 @@ export default function App() {
         </section>
       </div>
 
+      <footer className="mt-4 text-left text-slate-400 text-xs font-medium">
+        <p>&copy; {new Date().getFullYear()} asmong. All rights reserved.</p>
+      </footer>
+
       {/* Confetti */}
       <div className="pointer-events-none fixed inset-0 w-screen h-screen z-10 overflow-hidden" aria-hidden="true">
         {confetti.map(c => (
