@@ -1,0 +1,6 @@
+{
+  "name": "프롬프트 조립 배틀",
+  "description": "중학생들의 관심사를 기반으로 문제를 해결하기 위한 프롬프트를 돌림판으로 조립하는 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
